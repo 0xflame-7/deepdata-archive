@@ -1,0 +1,15 @@
+.venv
+.vscode
+**/*Data*/
+**/.env
+**/ca.pem
+
+# Fuel Economy
+./Fuel-Economy/fix_data
+./Fuel-Economy/model
+./Fuel-Economy/merged_df.csv
+./Fuel-Economy/img
+
+# live config
+live_stock/config.py
+live_stock/__pycache__/*
