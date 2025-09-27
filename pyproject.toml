@@ -1,0 +1,18 @@
+[project]
+name = "deepdata-archive"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain-community>=0.3.30",
+    "langchain-google-genai>=2.1.12",
+    "langchain-groq>=0.3.8",
+    "langgraph>=0.6.7",
+    "matplotlib>=3.10.6",
+    "numpy>=2.2.6",
+    "pandas>=2.3.2",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+]
