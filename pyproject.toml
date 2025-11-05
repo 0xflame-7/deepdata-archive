@@ -13,6 +13,7 @@ dependencies = [
     "langchain-huggingface>=0.3.1",
     "langgraph>=0.6.7",
     "matplotlib>=3.10.6",
+    "nbformat>=5.10.4",
     "numpy>=2.2.6",
     "pandas>=2.3.2",
     "python-dotenv>=1.1.1",
